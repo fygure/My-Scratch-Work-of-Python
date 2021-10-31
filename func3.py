@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 my_str = input()
 my_str_ns = ""
 for x in my_str:
